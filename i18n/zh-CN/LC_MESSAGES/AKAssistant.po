@@ -1,0 +1,19 @@
+# AKAssistant zh-CN Translation File
+# Copyright (C) 2021 AKAssistant. All Rights Reserved.
+# This file is distributed under the same license as the AKAssistant package.
+# LightningRS <me@ldby.site>, 2021.
+
+msgid ""
+msgstr ""
+"Project-Id-Version: AKAssistant\n"
+"Report-Msgid-Bugs-To: LightningRS <me@ldby.site>\n"
+"POT-Creation-Date: 2021-06-22 22:57+0800\n"
+"PO-Revision-Date: 2021-06-22 23:03+0800\n"
+"Last-Translator: LightningRS <me@ldby.site>\n"
+"Language: zh-CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+
+#: akassistant/core.py:13
+msgid "FUCK"
+msgstr "哈哈"
